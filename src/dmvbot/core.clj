@@ -69,6 +69,6 @@
     ))
 )
 
-(defn -main []
+(defn -main [& args]
     (while true (check))
 )
